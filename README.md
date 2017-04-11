@@ -13,3 +13,5 @@ Android Studio needed Plugins
 8. Git integration
 9. Github
 10.Markdown navigator
+11.Slack
+12.Genymotion
